@@ -1,0 +1,11 @@
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\bin\Release\CrypterAIO.exe
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\bin\Release\CrypterAIO.pdb
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\bin\Release\MessagingToolkit.QRCode.dll
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\obj\Release\CrypterAIO.Form1.resources
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\obj\Release\CrypterAIO.Properties.Resources.resources
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\obj\Release\CrypterAIO.csproj.GenerateResource.cache
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\obj\Release\CrypterAIO.csproj.CoreCompileInputs.cache
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\obj\Release\CrypterAIO.csproj.CopyComplete
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\obj\Release\CrypterAIO.exe
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\obj\Release\CrypterAIO.pdb
+C:\Users\bobra\source\repos\CrypterAIO\CrypterAIO\obj\Release\CrypterAIO.csprojAssemblyReference.cache
